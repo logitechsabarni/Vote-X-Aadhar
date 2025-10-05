@@ -128,10 +128,6 @@ bash
 npm run dev
 
 
-The app will now be running at **[http://localhost:3000](http://localhost:3000)**
-
-
-
 ## 📊 Usage Guide
 
 1. **Register / Login:** Users sign up securely with encryption.
@@ -173,5 +169,3 @@ This project is licensed under the **MIT License** — free to use, modify, and 
 * ✅ Multi-chain support (Polygon, Solana)
 * ✅ AI-based anomaly detection for suspicious activity
 * ✅ Biometric voter verification for enhanced security
-
--
